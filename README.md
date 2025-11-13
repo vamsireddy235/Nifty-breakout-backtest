@@ -6,6 +6,16 @@ Intraday breakout backtesting app for NIFTY and BSE indexes using Streamlit and 
 
 A Streamlit-based and CLI tool for intraday breakout backtesting of NIFTY and BSE indexes using Yahoo Finance data.
 
+The **Nifty Breakout Backtest** project is a Python-based tool that analyzes intraday breakout strategies on major Indian stock indexes like **NIFTY** and **BSE** using **Yahoo Finance** data.  
+It helps traders and analysts evaluate performance by simulating trades, visualizing win/loss ratios, and comparing strategy results with market indices.
+
+This project includes:
+- A **Streamlit web app** (`stock_app1.py`) with interactive visual dashboards.  
+- A **command-line version** (`nifty.py`) for quick backtesting and analysis.  
+
+Built for traders, analysts, and data enthusiasts to study breakout behavior, optimize strategies, and make data-driven trading insights.
+
+
 ![SCREENSHOT](https://github.com/vamsireddy235/Nifty-breakout-backtest/blob/7f4eb464492b11640c672cd780a556df6b8b2dad/SCREENSHOT/1%20(30).png)
 ![SCREENSHOT](https://github.com/vamsireddy235/Nifty-breakout-backtest/blob/7f4eb464492b11640c672cd780a556df6b8b2dad/SCREENSHOT/1%20(23).png)
 ![SCREENSHOT](https://github.com/vamsireddy235/Nifty-breakout-backtest/blob/7f4eb464492b11640c672cd780a556df6b8b2dad/SCREENSHOT/1%20(24).png)
