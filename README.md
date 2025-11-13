@@ -40,3 +40,10 @@ git clone https://github.com/YOUR_USERNAME/nifty-breakout-backtest.git
 cd nifty-breakout-backtest
 git clone https://github.com/YOUR_USERNAME/nifty-breakout-backtest.git
 cd nifty-breakout-backtest
+
+🧑‍💻 Author
+VAMSI REDDY
+
+📄 License
+
+This project is licensed under the **MIT License** — you are free to use, modify, and distribute it with proper attribution.
